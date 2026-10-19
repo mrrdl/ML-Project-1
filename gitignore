@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Competition data (belongs to the competition; each person downloads it from Kaggle)
+data/
+
+# Large intermediate files written by 07_ensemble.py
+artifacts/
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db

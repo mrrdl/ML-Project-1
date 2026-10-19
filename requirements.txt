@@ -1,0 +1,8 @@
+# Packages used by the scripts in src/.
+# For exact reproducibility, replace these lines with the versions you ran with:
+#   pip freeze | grep -i -E "^(numpy|pandas|scikit-learn|xgboost|matplotlib)=="
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
